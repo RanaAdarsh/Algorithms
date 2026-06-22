@@ -1,5 +1,5 @@
 /* 
-            --Properties of Selection Sort--
+            **--Properties of Selection Sort--**
     SC = O(1).   --> No Auxilary Array is used , only variables are created.
     Inplace Sorting- YES
     Stable Sorting- No i.e .   UNSTABLE sorting.
@@ -12,7 +12,7 @@ public class SelectionSort {
 
     }
 
-/*--Time Complexity Analysis  Selection Sort--
+/*.  **--Time Complexity Analysis  Selection Sort--**
 
        cases.    |    No. of comparsions.     |       No of swaps.   |.    TC.  |
 

@@ -1,5 +1,5 @@
 /* 
-            --Properties of Bubble Sort--
+            **--Properties of Bubble Sort--**
     SC = O(1).   --> No Auxilary Array is used , only variables are created.
     Inplace Sorting- YES
     Stable Sorting- YES
@@ -14,7 +14,7 @@ public class BubbleSort{
         A[x] = A[y];
         A[y]= t;
     }
-    /*--Time Complexity Analysis  BubbleSortBasic--
+    /*.   **--Time Complexity Analysis  BubbleSortBasic--**
 
        cases.    |    No. of comparsions.     |       No of swaps.   |.    TC.  |
 
@@ -32,7 +32,7 @@ public class BubbleSort{
         }
     }
 
-    /*--Time Complexity Analysis  of BubbleSortOptimized--
+    /*.  **--Time Complexity Analysis  of BubbleSortOptimized--**
 
        cases.    |    No. of comparsions.     |       No of swaps.   |.    TC.  |
 
@@ -51,7 +51,7 @@ public class BubbleSort{
         }
     }
 
-    /*--Time Complexity Analysis  of BubbleSortBest--
+    /*.  **--Time Complexity Analysis  of BubbleSortBest--**
 
        cases.    |    No. of comparsions.     |       No of swaps.   |.    TC.  |
 
